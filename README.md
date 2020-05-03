@@ -6,7 +6,6 @@ Check this tutorial for more details [How to create modal components in Angular]
 ## build and run
 
 ```console
-```console
 # Clone the repositoty
 git clone https://github.com/gabihodoroaga/angular-modal-service.git
 cd angular-modal-service
