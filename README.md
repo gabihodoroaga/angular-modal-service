@@ -17,3 +17,7 @@ npm install
 npm start
 
 ```
+
+## demo on StackBlitz
+
+[Angular Modal Service](https://stackblitz.com/github/gabihodoroaga/angular-modal-service)
